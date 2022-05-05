@@ -1,0 +1,11 @@
+{
+  "AWSEBDockerrunVersion": "1",
+  "Image": {
+    "Name": "kenrobertson/hello-world"
+  },
+  "Ports": [
+  {
+    "containerPort": 3000
+  }
+  ]
+}
